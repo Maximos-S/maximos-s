@@ -2,9 +2,9 @@
 ### My name is Maximos.
 #### With a background in art and a father of two, I recently sought to compliment my skill set with another creative and technical challenge. When the pandemic hit, I had the opportunity to step away from my demanding  job managing two local coffee shops and pursue this goal. I am looking forward to applying my skills and growing in this new field.
 
-#### Check out some of my projects and let me know what you think!
+#### Check out some of my <a href="maximos-s.github.io" target="_blank">projects</a> and let me know what you think!
 
-##### Feel free to reach out to me at maximossalzman@gmail.com or https://www.linkedin.com/in/maximos-salzman-5a7050171/ , https://angel.co/u/maximos-salzman
+##### Feel free to reach out to me at maximossalzman@gmail.com or <a href="https://www.linkedin.com/in/maximos-salzman-5a7050171/" target="_blank>Linkedin</a> , <a href="https://angel.co/u/maximos-salzman" target="_blank">Angel List</a>
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
