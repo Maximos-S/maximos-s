@@ -4,7 +4,7 @@
 
 #### Check out some of my <a href="maximos-s.github.io" target="_blank">projects</a> and let me know what you think!
 
-##### Feel free to reach out to me at maximossalzman@gmail.com or <a href="https://www.linkedin.com/in/maximos-salzman-5a7050171/" target="_blank>Linkedin</a> , <a href="https://angel.co/u/maximos-salzman" target="_blank">Angel List</a>
+##### Feel free to reach out to me at maximossalzman@gmail.com or <a href="https://www.linkedin.com/in/maximos-salzman-5a7050171/" target="_blank">Linkedin</a> , <a href="https://angel.co/u/maximos-salzman" target="_blank">Angel List</a>
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
