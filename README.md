@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Maximos.
-#### With a background in art and a father of two, I recently sought to compliment my skill set with another creative and technical challenge. When the pandemic hit, I had the opportunity to step away from my demanding  job managing two local coffee shops and pursue this goal. I am looking forward to applying my skills and growing in this new field.
+#### I am a software engineer on contract with Meta based outside of Atlanta, GA. When I'm not coding, I am taking care of my two children and working on my art. Please reach out if you have any questions for me!
 
 #### Check out some of my <a href="https://maximos-s.github.io/" target="_blank">projects</a> and let me know what you think!
 
